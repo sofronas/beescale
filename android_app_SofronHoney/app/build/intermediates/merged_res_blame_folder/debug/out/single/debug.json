@@ -1,0 +1,1054 @@
+[
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-mdpi_ic_day.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-mdpi/ic_day.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-anydpi-v26_bees_foreground_round.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-anydpi-v26/bees_foreground_round.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxxhdpi_bees_foreground_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxxhdpi/bees_foreground_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-anydpi-v21_ic_month_activity.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-anydpi-v21/ic_month_activity.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/layout_fragment_week.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/layout/fragment_week.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xhdpi_ic_home_black_24dp.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xhdpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xhdpi_ic_month_activity.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xhdpi/ic_month_activity.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-hdpi_login_icon.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-hdpi/login_icon.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-mdpi_week_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-mdpi/week_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-anydpi-v26_no_internet_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-anydpi-v26/no_internet_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-hdpi_search_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-hdpi/search_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/layout_activity_splash.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxhdpi_info_set_icon_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxhdpi/info_set_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxhdpi_ic_week.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxhdpi/ic_week.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xxxhdpi_no_internet_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xxxhdpi/no_internet_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-ldpi_ic_today.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-ldpi/ic_today.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xxhdpi_app_icon.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xxhdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-hdpi_settings_icon_for_activity_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-hdpi/settings_icon_for_activity_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-hdpi_no_internet.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-hdpi/no_internet.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xhdpi_ic_yesterday.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xhdpi/ic_yesterday.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-ldpi_ic_notifications_black_24dp.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-ldpi/ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-anydpi-v26_settings_icon_for_activity_round.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-anydpi-v26/settings_icon_for_activity_round.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-hdpi_ic_month_activity.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-hdpi/ic_month_activity.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-anydpi-v26/app_icon.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xhdpi_ic_month_button.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xhdpi/ic_month_button.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxhdpi_ic_yesterday.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxhdpi/ic_yesterday.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xxhdpi_login_icon_round.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xxhdpi/login_icon_round.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/layout_fragment_yesterday.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/layout/fragment_yesterday.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xxhdpi_no_internet_round.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xxhdpi/no_internet_round.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xhdpi_no_wifi.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xhdpi/no_wifi.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-hdpi_no_internet_round.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-hdpi/no_internet_round.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xhdpi_no_wifi_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xhdpi/no_wifi_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/layout_activity_show_data_day.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/layout/activity_show_data_day.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xhdpi_no_internet.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xhdpi/no_internet.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxxhdpi_info_set_icon_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxxhdpi/info_set_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-ldpi_today_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-ldpi/today_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-hdpi_app_icon_round.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-hdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/xml_root_preferences.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/xml/root_preferences.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-ldpi_settings_icon_for_activity_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-ldpi/settings_icon_for_activity_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxhdpi_today_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxhdpi/today_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/layout_list_view_row.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/layout/list_view_row.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-hdpi_no_wifi_round.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-hdpi/no_wifi_round.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xhdpi_search_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xhdpi/search_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-anydpi-v24_db_password_icon_foreground.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-anydpi-v24/db_password_icon_foreground.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/anim_fade_in.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-mdpi_app_icon_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-mdpi/app_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxxhdpi_ic_today.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxxhdpi/ic_today.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxxhdpi_month_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxxhdpi/month_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xxhdpi_no_wifi_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xxhdpi/no_wifi_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xhdpi_ic_day.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xhdpi/ic_day.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-mdpi_app_icon_round.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-mdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxxhdpi_today_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxxhdpi/today_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xxxhdpi_no_wifi_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xxxhdpi/no_wifi_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-ldpi_info_set_icon_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-ldpi/info_set_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-mdpi_today_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-mdpi/today_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-hdpi_app_icon.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-hdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/menu_bottom_nav_menu.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-mdpi_login_icon.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-mdpi/login_icon.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xxxhdpi_no_internet_round.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xxxhdpi/no_internet_round.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xhdpi_bees_foreground_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xhdpi/bees_foreground_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-mdpi_month_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-mdpi/month_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-ldpi_yesterday_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-ldpi/yesterday_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-anydpi-v26_no_wifi.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-anydpi-v26/no_wifi.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-mdpi_login_icon_round.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-mdpi/login_icon_round.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/layout_info.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/layout/info.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-hdpi_no_wifi.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-hdpi/no_wifi.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-mdpi_ic_month_button.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-mdpi/ic_month_button.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-anydpi-v21_action_settings_foreground.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-anydpi-v21/action_settings_foreground.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-hdpi_ic_today.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-hdpi/ic_today.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xhdpi_week_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xhdpi/week_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xxxhdpi_login_icon_round.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xxxhdpi/login_icon_round.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxxhdpi_ic_yesterday.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxxhdpi/ic_yesterday.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-mdpi_search_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-mdpi/search_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-ldpi_ic_month.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-ldpi/ic_month.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-mdpi_no_internet.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-mdpi/no_internet.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-anydpi-v26_login_icon_round.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-anydpi-v26/login_icon_round.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxhdpi_month_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxhdpi/month_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xhdpi_settings_icon_for_activity_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xhdpi/settings_icon_for_activity_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-ldpi_month_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-ldpi/month_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xhdpi_ic_week.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xhdpi/ic_week.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-hdpi_ic_week.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-hdpi/ic_week.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxxhdpi_search_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxxhdpi/search_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxhdpi_ic_month_activity.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxhdpi/ic_month_activity.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-hdpi_ic_yesterday.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-hdpi/ic_yesterday.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-anydpi-v26_no_internet_round.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-anydpi-v26/no_internet_round.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxhdpi_search_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxhdpi/search_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xxxhdpi_no_internet.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xxxhdpi/no_internet.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-hdpi_no_wifi_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-hdpi/no_wifi_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xhdpi/ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxxhdpi_ic_day.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxxhdpi/ic_day.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable_beesof.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/drawable/beesof.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxhdpi/ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxhdpi_yesterday_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxhdpi/yesterday_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxhdpi_bees_foreground_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxhdpi/bees_foreground_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xxxhdpi_app_icon_round.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xxxhdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/layout_activity_main.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xhdpi_login_icon.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xhdpi/login_icon.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-mdpi_no_internet_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-mdpi/no_internet_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xxhdpi_no_internet.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xxhdpi/no_internet.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-mdpi_yesterday_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-mdpi/yesterday_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-anydpi-v26_no_internet_round.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-anydpi-v26/no_internet_round.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-anydpi-v21_yesterday_background.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-anydpi-v21/yesterday_background.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/layout_month_view_model.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/layout/month_view_model.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xxxhdpi_app_icon_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xxxhdpi/app_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-mdpi_ic_yesterday.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-mdpi/ic_yesterday.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-mdpi_bees_foreground_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-mdpi/bees_foreground_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xhdpi_month_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xhdpi/month_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-hdpi_ic_month.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-hdpi/ic_month.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-hdpi_ic_home_black_24dp.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-hdpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxhdpi_ic_day.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxhdpi/ic_day.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxxhdpi/ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/navigation_mobile_navigation.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-ldpi_ic_yesterday.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-ldpi/ic_yesterday.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-anydpi-v26_bees_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-anydpi-v26/bees_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xhdpi_today_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xhdpi/today_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/layout_fragment_search.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-anydpi-v21_ic_month.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-anydpi-v21/ic_month.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xhdpi_info_set_icon_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xhdpi/info_set_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xxxhdpi_no_wifi_round.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xxxhdpi/no_wifi_round.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxhdpi_week_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxhdpi/week_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-ldpi_ic_month_activity.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-ldpi/ic_month_activity.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxxhdpi_ic_month.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxxhdpi/ic_month.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xxhdpi_no_wifi_round.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xxhdpi/no_wifi_round.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xhdpi_action_settings_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xhdpi/action_settings_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-hdpi_ic_month_button.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-hdpi/ic_month_button.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-hdpi_no_internet_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-hdpi/no_internet_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-mdpi_ic_month_activity.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-mdpi/ic_month_activity.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-hdpi_bees_foreground_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-hdpi/bees_foreground_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-hdpi_ic_notifications_black_24dp.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-hdpi/ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-anydpi-v26_no_internet.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-anydpi-v26/no_internet.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxxhdpi_week_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxxhdpi/week_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xxhdpi_app_icon_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xxhdpi/app_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-anydpi-v21_bees_foreground_background.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-anydpi-v21/bees_foreground_background.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-mdpi_ic_week.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-mdpi/ic_week.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxxhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxxhdpi/ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xxhdpi_no_wifi.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xxhdpi/no_wifi.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/layout_fragment_today.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/layout/fragment_today.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-anydpi-v21_week_background.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-anydpi-v21/week_background.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/menu_settingsmenu.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/menu/settingsmenu.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-ldpi_week_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-ldpi/week_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-hdpi_login_icon_round.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-hdpi/login_icon_round.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xxxhdpi_app_icon.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xxxhdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxxhdpi_ic_home_black_24dp.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxxhdpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-anydpi-v21_settings_icon_for_activity_foreground.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-anydpi-v21/settings_icon_for_activity_foreground.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxxhdpi_action_settings_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxxhdpi/action_settings_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-hdpi_today_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-hdpi/today_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-ldpi_ic_month_button.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-ldpi/ic_month_button.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-anydpi-v21_ic_yesterday.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-anydpi-v21/ic_yesterday.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-anydpi-v21_today_background.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-anydpi-v21/today_background.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxxhdpi_ic_month_activity.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxxhdpi/ic_month_activity.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-hdpi_month_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-hdpi/month_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-anydpi-v21_ic_week.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-anydpi-v21/ic_week.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-hdpi_week_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-hdpi/week_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-anydpi-v26_bees_foreground_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-anydpi-v26/bees_foreground_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-ldpi_ic_week.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-ldpi/ic_week.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xhdpi_login_icon_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xhdpi/login_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-mdpi_no_wifi.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-mdpi/no_wifi.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxhdpi_ic_month_button.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxhdpi/ic_month_button.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-mdpi_login_icon_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-mdpi/login_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-mdpi_app_icon.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-mdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-anydpi-v26/app_icon_round.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-anydpi-v21_month_background.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-anydpi-v21/month_background.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-anydpi-v26_settings_icon_for_activity.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-anydpi-v26/settings_icon_for_activity.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-mdpi_ic_today.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-mdpi/ic_today.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-anydpi-v21_ic_month_button.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-anydpi-v21/ic_month_button.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-mdpi_settings_icon_for_activity_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-mdpi/settings_icon_for_activity_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-anydpi-v24_change_theme_icon_foreground.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-anydpi-v24/change_theme_icon_foreground.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-anydpi-v24_ic_today.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-anydpi-v24/ic_today.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/layout_activity_show_data_month.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/layout/activity_show_data_month.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xxhdpi_login_icon.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xxhdpi/login_icon.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-hdpi_app_icon_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-hdpi/app_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-hdpi_action_settings_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-hdpi/action_settings_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-ldpi_search_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-ldpi/search_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/layout_activity_login.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-anydpi-v26_no_wifi_round.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-anydpi-v26/no_wifi_round.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-anydpi-v21_ic_day.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-anydpi-v21/ic_day.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxhdpi/ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xhdpi_no_wifi_round.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xhdpi/no_wifi_round.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xhdpi_ic_month.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xhdpi/ic_month.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-hdpi_info_set_icon_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-hdpi/info_set_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-mdpi_no_internet_round.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-mdpi/no_internet_round.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-anydpi-v24_db_url_icon_foreground.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-anydpi-v24/db_url_icon_foreground.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxhdpi_ic_today.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxhdpi/ic_today.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-anydpi-v21_ic_dashboard_black_24dp.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-anydpi-v21/ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xhdpi_yesterday_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xhdpi/yesterday_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxxhdpi_ic_month_button.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxxhdpi/ic_month_button.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable_closebtn404.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/drawable/closebtn404.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-ldpi_bees_foreground_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-ldpi/bees_foreground_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-mdpi_no_wifi_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-mdpi/no_wifi_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-ldpi_ic_home_black_24dp.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-ldpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xhdpi/ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-anydpi-v24_phone_foreground.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-anydpi-v24/phone_foreground.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/layout_activity_no_internet.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/layout/activity_no_internet.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-anydpi-v21_ic_home_black_24dp.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-anydpi-v21/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxhdpi_action_settings_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxhdpi/action_settings_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xxhdpi_login_icon_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xxhdpi/login_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxhdpi_settings_icon_for_activity_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxhdpi/settings_icon_for_activity_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xhdpi_login_icon_round.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xhdpi/login_icon_round.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-mdpi_ic_month.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-mdpi/ic_month.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-mdpi_ic_home_black_24dp.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-mdpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxxhdpi_ic_week.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxxhdpi/ic_week.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-hdpi_login_icon_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-hdpi/login_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-hdpi_ic_day.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-hdpi/ic_day.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-mdpi_info_set_icon_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-mdpi/info_set_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-hdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-hdpi/ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxxhdpi_settings_icon_for_activity_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxxhdpi/settings_icon_for_activity_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxxhdpi_yesterday_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxxhdpi/yesterday_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xhdpi_app_icon_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xhdpi/app_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/layout_fragment_month.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/layout/fragment_month.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-anydpi-v26_no_internet.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-anydpi-v26/no_internet.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-anydpi-v21_info_set_icon_foreground.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-anydpi-v21/info_set_icon_foreground.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-mdpi_ic_notifications_black_24dp.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-mdpi/ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xxxhdpi_login_icon.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xxxhdpi/login_icon.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-mdpi_action_settings_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-mdpi/action_settings_foreground.png"
+    },
+    {
+        "merged": "com.example.sofronas.app-merged_res-36:/menu_settingsmenu.xml.flat",
+        "source": "com.example.sofronas.app-main-38:/menu/settingsmenu.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xhdpi_app_icon.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xhdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xhdpi_no_internet_round.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xhdpi/no_internet_round.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xxhdpi_no_internet_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xxhdpi/no_internet_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-mdpi_no_wifi_round.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-mdpi/no_wifi_round.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/layout_settings_activity.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/layout/settings_activity.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xhdpi_ic_today.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xhdpi/ic_today.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xxhdpi_app_icon_round.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xxhdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xhdpi_app_icon_round.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xhdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-hdpi_yesterday_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-hdpi/yesterday_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-ldpi_action_settings_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-ldpi/action_settings_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-anydpi-v21_search_background.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-anydpi-v21/search_background.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-anydpi-v24_db_user_icon_foreground.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-anydpi-v24/db_user_icon_foreground.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-anydpi-v26_login_icon.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-anydpi-v26/login_icon.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-anydpi-v21_ic_notifications_black_24dp.xml.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-anydpi-v21/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xhdpi_no_internet_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xhdpi/no_internet_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxhdpi_ic_home_black_24dp.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxhdpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-ldpi_ic_day.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-ldpi/ic_day.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-xxhdpi_ic_month.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-xxhdpi/ic_month.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xxxhdpi_no_wifi.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xxxhdpi/no_wifi.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-ldpi_ic_dashboard_black_24dp.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-ldpi/ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/mipmap-xxxhdpi_login_icon_foreground.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/mipmap-xxxhdpi/login_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable_splash.jpg.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-main-38:/drawable/splash.jpg"
+    },
+    {
+        "merged": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-merged_res-36:/drawable-mdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "/Users/sofronas/.gradle/daemon/7.3.3/com.example.sofronas.app-pngs-31:/drawable-mdpi/ic_dashboard_black_24dp.png"
+    }
+]

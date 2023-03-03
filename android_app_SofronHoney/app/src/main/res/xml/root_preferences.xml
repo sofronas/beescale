@@ -1,0 +1,68 @@
+<PreferenceScreen xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <PreferenceCategory app:title="@string/sms_header">
+
+        <EditTextPreference
+            android:id="@+id/phone_id"
+            android:digits="0123456789"
+            android:icon="@drawable/phone_foreground"
+            android:inputType="numberDecimal|phone"
+            android:key="phone_number_key"
+            android:visibility="visible"
+            app:singleLineTitle="false"
+            app:title="@string/sms_title"
+            app:useSimpleSummaryProvider="true" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/db_header">
+
+        <EditTextPreference
+            android:id="@+id/url_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:icon="@drawable/db_url_icon_foreground"
+            android:inputType="text"
+            android:key="url"
+            android:visibility="visible"
+            app:title="@string/db_url"
+            app:useSimpleSummaryProvider="true" />
+        <EditTextPreference
+            android:id="@+id/username_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:icon="@drawable/db_user_icon_foreground"
+            android:inputType="text"
+            android:key="username"
+            android:visibility="visible"
+            app:title="@string/db_username"
+            app:useSimpleSummaryProvider="true" />
+        <EditTextPreference
+            android:id="@+id/password_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:icon="@drawable/db_password_icon_foreground"
+            android:inputType="textVisiblePassword|textPassword"
+            android:key="password"
+            android:visibility="visible"
+            app:title="@string/db_password"
+            app:useSimpleSummaryProvider="true" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/theme_header">
+        <SwitchPreferenceCompat
+            android:id="@+id/btnToggleDark"
+            android:icon="@drawable/change_theme_icon_foreground"
+            android:summaryOff="@string/disabled_dark_theme"
+            android:summaryOn="@string/enabled_dark_theme"
+            android:key="dark_mode_on"
+            android:switchTextOff="@string/disabled_dark_theme"
+            android:switchTextOn="@string/enabled_dark_theme"
+            app:theme="@style/Theme.Sofronas"
+            app:title="@string/theme_title" />
+    </PreferenceCategory>
+</PreferenceScreen>

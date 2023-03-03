@@ -1,0 +1,51 @@
+com/example/sofronas/SettingsActivity.java
+ com.example.sofronas.SettingsActivity
+ com.example.sofronas.SettingsActivity$SettingsFragment
+com/example/sofronas/ui/month/Model.java
+ com.example.sofronas.ui.month.Model
+com/example/sofronas/SplashActivity.java
+ com.example.sofronas.SplashActivity
+com/example/sofronas/MainActivity.java
+ com.example.sofronas.MainActivity
+com/example/sofronas/ui/month/ShowDataMonth.java
+ com.example.sofronas.ui.month.ShowDataMonth
+ com.example.sofronas.ui.month.ShowDataMonth$1
+ com.example.sofronas.ui.month.ShowDataMonth$2
+com/example/sofronas/sms/SmsReceiver.java
+ com.example.sofronas.sms.SmsReceiver
+ com.example.sofronas.sms.SmsReceiver$1
+ com.example.sofronas.sms.SmsReceiver$2
+com/example/sofronas/GlobalClass.java
+ com.example.sofronas.GlobalClass
+com/example/sofronas/ui/today/FragmentToday.java
+ com.example.sofronas.ui.today.FragmentToday
+ com.example.sofronas.ui.today.FragmentToday$1
+ com.example.sofronas.ui.today.FragmentToday$2
+com/example/sofronas/ui/month/ListViewAdapter.java
+ com.example.sofronas.ui.month.ListViewAdapter
+ com.example.sofronas.ui.month.ListViewAdapter$1
+ com.example.sofronas.ui.month.ListViewAdapter$ViewHolder
+com/example/sofronas/ui/yesterday/FragmentYesterday.java
+ com.example.sofronas.ui.yesterday.FragmentYesterday
+ com.example.sofronas.ui.yesterday.FragmentYesterday$1
+ com.example.sofronas.ui.yesterday.FragmentYesterday$2
+com/example/sofronas/ui/search/ShowDataDay.java
+ com.example.sofronas.ui.search.ShowDataDay
+ com.example.sofronas.ui.search.ShowDataDay$1
+ com.example.sofronas.ui.search.ShowDataDay$2
+com/example/sofronas/ui/search/FragmentSearch.java
+ com.example.sofronas.ui.search.FragmentSearch
+ com.example.sofronas.ui.search.FragmentSearch$1
+com/example/sofronas/ui/month/FragmentMonth.java
+ com.example.sofronas.ui.month.FragmentMonth
+com/example/sofronas/NoInternet.java
+ com.example.sofronas.NoInternet
+ com.example.sofronas.NoInternet$1
+com/example/sofronas/BuildConfig.java
+ com.example.sofronas.BuildConfig
+com/example/sofronas/InfoActivity.java
+ com.example.sofronas.InfoActivity
+com/example/sofronas/ui/week/FragmentWeek.java
+ com.example.sofronas.ui.week.FragmentWeek
+ com.example.sofronas.ui.week.FragmentWeek$1
+ com.example.sofronas.ui.week.FragmentWeek$2

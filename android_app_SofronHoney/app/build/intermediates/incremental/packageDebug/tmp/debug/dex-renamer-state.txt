@@ -1,0 +1,4 @@
+#Sun Sep 11 22:41:25 EEST 2022
+base.0=/Users/sofronas/AndroidStudioProjects/SofronHoney/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

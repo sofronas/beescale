@@ -8,7 +8,7 @@
 Τα στοιχεία που μας παρέχονται για τη μεταβολή του βάρους μπορούμε να τα χρησιμοποιήσουμε για να μεγιστοποιήσουμε την απόδοση μας, με τη εξαγωγή του μέλιού μας την κατάλληλη στιγμή. Αν κάτι πάει στραβά τότε κρίνουμε εάν απαιτείται επέμβαση του μελισσοκόμου για τη φροντίδα της κυψέλης, ώστε να διασφαλιστεί η υγεία του μελισσιού και όχι μόνο.
 
 ### Κόστος
-| Ν/Ν  | Προιόν  | Τιμή  | Ποσότητα  | Αιτία  |
+| #  | Προιόν  | Τιμή * | Ποσότητα  | Αιτία  |
 |---|---|---|---|---|
 | 1  | [Arduino Uno R3](https://grobotronics.com/arduino-uno-rev3.html)  | 22.90  | 1 | Βασική πλακέτα διαχείρισης  |
 | 2 | [Καλώδιο Usb A to B](https://www.firesale.gr/index.php?_route_=powertech-kalothio-usb-2-0-se-usb-type-b-1m-chalkino-mauro.html&skr_prm=WyJhZDYzYWE2MC1hN2RhLTRhZDAtODg2NC03YmU3NDY3MTFjNWQiLDE1NjIyMjc1MTc3NDMseyJhcHBfdHlwZSI6IndlYiIsInRhZ3MiOiIifV0)  | 0.40  | 1  |  Καλώδιο σύνδεσης Arduino με τον Η/Υ |
@@ -23,7 +23,7 @@
 | 11 | [Μπαταρία](https://www.thebatteryshop.gr/index.php?route=product/product&product_id=267) | 15.00 | 1 | Μπαταρία 12V 7.2 Ah Επαναφορτιζόμενη|
 | 12 | [Διακόπτης](https://www.easytechnology.gr/index.php?main_page=product_info&products_id=29576&ref=bestprice.gr) | 4.00 | 1 | Διακόπτης On/Off Κυκλώματος|
 
-Συνολικό Κόστος : 205.84 €
+Συνολικό Κόστος : 205.84 € 
 
 ### Extra Υλικά (Προαιρετικά)
 | Ν/Ν  | Προιόν  | Τιμή  | Ποσότητα  | Αιτία  |
@@ -32,24 +32,31 @@
 | 2 | [Ρυθμιστής](https://www.babaloo.gr/product/rythmistis-fortisis-mpatarias-fotovoltaikon-20a-12v-cmtp20-oem/?skr_prm=WyJhZDYzYWE2MC1hN2RhLTRhZDAtODg2NC03YmU3NDY3MTFjNWQiLDE1NjIyMjkzNzA3NDkseyJhcHBfdHlwZSI6IndlYiIsInRhZ3MiOiIifV0)  | 12.30  | 1  |  Ρυθμιστής Φόρτισης Μπαταρίας Φωτοβολταϊκών – 20A 12V   |
 | 3 | [Καλώδιο](https://www.smart-cover.gr/product/%CE%BA%CE%B1%CE%BB%CF%89%CE%B4%CE%B9%CE%BF-%CF%83%CF%85%CE%BD%CE%B4%CE%B5%CF%83%CE%B7%CF%83-%CE%B1%CF%80%CE%BF-%CF%81%CF%85%CE%B8%CE%BC%CE%B9%CF%83%CF%84%CE%B7-%CF%86%CE%BF%CF%81%CF%84%CE%B9%CF%83/)  | 8.56  | 3 | Σύνδεση Πάνελ - Ρυθμιστή - Μπαταρία  |
 
-Έξτρα Κόστος: 50.33 €
-Συνολικό Κόστος : 256.17 €
+Έξτρα Κόστος: <b>50.33 € </b><br>
+Συνολικό Κόστος : <b>256.17 €</b>
+<br>
+<em>*(Οι τιμές αφορούν το 2018)</em>
+
 
 ### Πρόγραμμα - Software
-Τι χρησιμοποιήσαμε:
+<hr>
+Χρησιμοποιήθηκαν:
 
 * [Arduino](https://www.arduino.cc/en/Guide/Windows) - Arduino Ide For Windows
 ή
 * [Arduino](https://www.arduino.cc/en/Guide/Linux) - Arduino Ide For Linux
 
 ### Βιβλιοθήκες
-Χρησιμοποιήσαμε:
+<hr>
+
+Χρησιμοποιήθηκαν:
 * [Dht 11](https://github.com/adidax/dht11) - Βιβλιοθήκη για τον αισθητήρα υγρασίας
 * [DS18b20](https://github.com/milesburton/Arduino-Temperature-Control-Library) - Βιβλιοθήκη για τον αισθητήρα θερμοκρασίας
 * [HX711](https://www.arduinolibraries.info/libraries/hx711-arduino-library) - Βιβλιοθήκη για τον μικροεπεξεργαστή του αισθητήρα βάρους
 * [GSM](https://www.arduino.cc/en/Reference/GSM) - Βιβλιοθήκη για τον μικροεπεξεργαστή της πλακέτας της κινητής τηλεφωνίας
 
 ### Εγκατάσταση Βιβλιοθηκών
+<hr>
 
 Για να γίνει η εγκατάσταση των βιβλιοθηκών στο σύστημα μας αρκεί να εκτελέσουμε τα εξής βήματα αφότου έχει προηγηθεί η αποσυμπίεση των αρχείων:
 

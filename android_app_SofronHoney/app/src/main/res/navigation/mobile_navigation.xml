@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_today">
+
+    <fragment
+        android:id="@+id/navigation_today"
+        android:name="com.example.sofronas.ui.today.FragmentToday"
+        android:label="@string/today"
+        tools:layout="@layout/fragment_today" />
+
+    <fragment
+        android:id="@+id/navigation_yesterday"
+        android:name="com.example.sofronas.ui.yesterday.FragmentYesterday"
+        android:label="@string/yesterday"
+        tools:layout="@layout/fragment_yesterday" />
+
+    <fragment
+        android:id="@+id/navigation_week"
+        android:name="com.example.sofronas.ui.week.FragmentWeek"
+        android:label="@string/week"
+        tools:layout="@layout/fragment_week" />
+
+    <fragment
+        android:id="@+id/navigation_month"
+        android:name="com.example.sofronas.ui.month.FragmentMonth"
+        android:label="@string/choose_month"
+        tools:layout="@layout/fragment_month" />
+
+    <fragment
+        android:id="@+id/navigation_search"
+        android:name="com.example.sofronas.ui.search.FragmentSearch"
+        android:label="@string/choose_day"
+        tools:layout="@layout/fragment_search" />
+</navigation>

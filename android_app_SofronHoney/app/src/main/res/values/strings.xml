@@ -1,0 +1,98 @@
+<resources>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="app_name"> Sofronas</string>
+    <string name="login_name">Είσοδος</string>
+    <string name="close">Κλείσιμο</string>
+    <string name="createdby">Created By Sofronas Konstantinos Sotirios</string>
+    <string name="noInternet">Δεν υπάρχει σύνδεση</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="action_settings">Ρυθμίσεις</string>
+    <string name="info_app">Πληροφορίες</string>
+
+    <!-- Δεδομένα -->
+    <string name="temp">Θερμοκρασία</string>
+    <string name="hum">Υγρασία</string>
+    <string name="wei">Βάρος</string>
+    <string name="empty_string_today"></string>
+    <string name="empty_string_yesterday"></string>
+
+    <string name="data_today_text">Σήμερα</string>
+    <string name="data_yesterday_text">Εχθές</string>
+    <string name="data_week_text">Εβδομάδα</string>
+    <string name="data_month_choice_text">Αναζήτηση Δεδομένων</string>
+    <string name="data_day_choice_text">Αναζήτηση</string>
+
+    <!--  Προβολή Εβδομάδας  -->
+    <string name="week_text_top">Τρέχουσα εβδομάδα</string>
+    <string name="week_text_no_data">Δεν υπάρχουν δεδομένα για αυτήν την εβδομάδα ακόμη</string>
+    <string name="error">ERROR</string>
+
+    <!-- Προβολή Μήνα -->
+    <string name="choose_button_text">Επίλεξε</string>
+    <string-array name="months_list">
+        <item>Ιανουάριος</item>
+        <item>Φεβρουάριος</item>
+        <item>Μάρτιος</item>
+        <item>Απρίλιος</item>
+        <item>Μάιος</item>
+        <item>Ιούνιος</item>
+        <item>Ιούλιος</item>
+        <item>Αύγουστος</item>
+        <item>Σεπτέμβριος</item>
+        <item>Οκτώβριος</item>
+        <item>Νοέμβριος</item>
+        <item>Δεκέμβριος</item>
+    </string-array>
+
+    <!-- Αποτελέσματα αναζήτησης ημέρας   -->
+    <string name="searched_day_results">Αποτελέσματα</string>
+
+    <!-- Αποτελέσματα αναζήτησης μήνα -->
+    <string name="month_text_no_data">Δεν υπάρχουν δεδομένα για αυτόν τον μήνα ακόμη</string>
+    <string name="no">#</string>
+    <string name="date">Ημερομηνία</string>
+    <string name="tempe">Θερμοκρασία</string>
+    <string name="humd">Υγρασία</string>
+    <string name="weight">Βάρος</string>
+    <string name="no_data_yet_month">Δεν υπάρχουν ακόμη δεδομένα για τον τρέχον μήνα.</string>
+
+    <!-- Ρυθμίσεις Μενού Επιλογών -->
+    <string name="sms_header">Ρυθμίσεις SMS Μηνυμάτων</string>
+    <string name="sms_title">Αριθμός τηλεφώνου Ζυγαριάς</string>
+
+    <string name="db_header">Ρυθμίσεις Βάσεων Δεδομένων</string>
+    <string name="db_url">URL Link</string>
+    <string name="db_username">Username</string>
+    <string name="db_password">Password</string>
+
+    <string name="theme_header">Θέμα</string>
+    <string name="theme_title">Σκοτεινό Θέμα</string>
+    <string name="disabled_dark_theme">Απενεργοποιημένο το Σκοτεινό Θέμα</string>
+    <string name="enabled_dark_theme">Ενεργοποιημένο το Σκοτεινό Θέμα</string>
+
+    <!-- Μενού Προβολών -->
+    <string name="today">Σήμερα</string>
+    <string name="yesterday">Εχθές</string>
+    <string name="week">Εβδομάδα</string>
+    <string name="choose_month">Μήνας</string>
+    <string name="choose_day">Ημέρα</string>
+
+    <!-- Πληροφορίες για εμένα και την εφαρμογή   -->
+    <string name="about_app">Η εφαρμογή αποτελεί μέρος πτυχιακής εργασίας</string>
+    <string name="about_me">Ονομάζομαι Σωφρονάς Κωνσταντίνος Σωτήριος</string>
+    <string name="email">Στοιχεία επικοινωνίας: Email: dit16167@uop.gr</string>
+    <string name="contact_me">6983733807</string>
+
+    <!--  Νo internet activity  -->
+    <string name="no_connection_internet">Δεν υπάρχει σύνδεση στο Internet</string>
+
+    <!--  Login Activity  -->
+    <string name="buttonTextLogin">Είσοδος</string>
+    <string name="cancelTextLogin">Ακύρωση</string>
+    <string name="usernameTextEdit">Όνομα χρήστη</string>
+    <string name="passwordTextEdit">Κωδικός Πρόσβασης</string>
+    <string name="logoutText">Αποσύνδεση</string>
+</resources>
